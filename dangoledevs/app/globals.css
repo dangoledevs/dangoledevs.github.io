@@ -1,8 +1,4 @@
-@import "tailwindcss/preflight";
-@tailwind utilities;
 
-/* Small tweaks to give a summery, folksy vibe */
 body {
-  background: #F6EAC2; /* sand */
   font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 }
